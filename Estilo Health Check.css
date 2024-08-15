@@ -1,0 +1,19 @@
+body{
+	display: grid;
+	background-color:#ffb3e3;
+}
+.vita{
+	background-color:#60e05a;
+}
+.search{
+		background-color: #fff;
+		padding: 10px;
+		border-radius: 8px;
+		box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+		width: 50%;
+		}
+.item  {
+         margin: 10px 0;
+         padding: 10px;
+         border: 1px solid #ffb3e3;
+        }
